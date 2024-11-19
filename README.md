@@ -63,6 +63,13 @@ A **Streamlit**-based web application is developed to enable real-time predictio
 
 ---
 
+### Future Enhancements
+- Incorporate more sophisticated models such as Transformer-based architectures.
+- Add features like sentiment analysis of news articles affecting stock prices.
+- Extend deployment to cloud platforms for wider accessibility.
+
+---
+
 ## Tools and Technologies
 - **Programming Language**: Python  
 - **Libraries**: TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, yfinance  
